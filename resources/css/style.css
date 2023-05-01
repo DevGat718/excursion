@@ -1,0 +1,17 @@
+h1 {
+font-family: verdana;
+font-weight: normal;
+font-size: 50px;
+color: white;
+text-align: centered;
+}
+
+body {
+    background-color: black;
+}
+
+.dlink {
+text-align: centered;
+color: aquamarine;
+font-size: 16px;
+}
