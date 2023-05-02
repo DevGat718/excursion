@@ -1,13 +1,19 @@
-h2 {
+.header--main {
 font-weight: normal;
 font-size: 50px;
 color: white;
 }
 
-h3 {
+.header--sub1 {
     color: white;
     font-weight: 300;
-    font-size: 40px;
+    font-size: 42px;
+}
+
+.header--sub2 {
+    color: white;
+    font-weight: 300;
+    font-size: 42px;
 }
 
 body {
@@ -16,15 +22,15 @@ body {
     text-align: center;
 }
 
-/* download link #1 */
-{
-color: aquamarine;
-font-size: 16px;
+.para--1 {
+    color:gray;
+    font-size: 21px;
 }
 
-/* download link #2 */
-{
-    
+/* download link #1 */
+.link {
+color: aquamarine;
+font-size: 16px;
 }
 
 footer {
