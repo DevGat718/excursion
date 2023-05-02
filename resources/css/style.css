@@ -1,4 +1,4 @@
-h1 {
+h2 {
 font-family: verdana;
 font-weight: normal;
 font-size: 50px;
@@ -10,7 +10,8 @@ body {
     background-color: black;
 }
 
-.dlink {
+/* download link #1 */
+{
 text-align: centered;
 color: aquamarine;
 font-size: 16px;
